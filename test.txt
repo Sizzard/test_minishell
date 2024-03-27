@@ -1,3 +1,7 @@
 $a
 $a | $a | $a
 <Makefile cat $a | $a | cat $a
+
+<<ok ^C
+
+<<ok ^D
